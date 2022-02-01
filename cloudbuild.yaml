@@ -1,7 +1,0 @@
-steps:
-- name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/bubbly-team-339805/cicd:$SHORT_SHA', '.']
-- name: 'gcr.io/cloud-builders/docker'
-  args: ['push', 'gcr.io/gcr.io/bubbly-team-339805/cicd:$SHORT_SHA']
-- name: 'gcr.io/cloud-builders/gcloud'
-  args: ['beta', 'run', 'deploy', 'cicd2', '--image=gcr.iobubbly-team-339805/cicd:$SHORT_SHA', '--region=us-asia-south2-c','--platform=managed','--allow-unauthenticated']
