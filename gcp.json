@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bubbly-team-339805",
+  "private_key_id": "71813dce397aca12a047c07e9708dc0da90f30ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLAPpbO4YyqcrR\nnH1LFMkAcRpfnTDSoFKG2YKao4i3yyYUEqspXobmU5GJxR8aqAWItYZhCvC3ol4d\nfVYnXlsmMfDXV/K3YYPkwgBEZxxy2Vhz7MjbFh7mOCQF1fQvScAwtyRuyIy7Vdu+\nHj0KQC8A+lOoshEeEd4Gxq453vSv0rmetqaJWt+OJAGuCVjMTw5JzWB4Yuer/cDH\nJatagVdi1f/Oo1IkEDYNO9GreVgA01Rsd+FizHC8CAZ4LAs3GlB/b68iGFO0OBmR\nr9EuOYUW33qdIRfE+rHYRcObYYqhPc3zuRNJ6MGU+8/c3eNx077Jp3+f82LFhAWZ\n+wyFrbxtAgMBAAECggEAAqaQOr0QSVksxA7k+l0MgNUj5kuYTqiid6tKLBv0pDab\nkSz5cwzjwUHQ3LmZ6IlAGpTQMhfaMuVoH0zI75ZTpZOjP1uvWFtNb/Zj2fKS8MxL\nYcM6OpxTYxJFJM8HpSRsU4EuAxpMtld8taZnF/ePWuQw+nPb4FvqJKJlYIn0cyxb\nFQ7x/xCV0pmVVSv69A5Z7IQiU4I8hNPhH5gAVItSrmJpFCRpJCPjk/fJ9zPtENNw\n6E23i9c3RTTM/RREOyu+Gu/zy8vonZ7gTvhh/F7wHQIz1qqaspbj3t7r3sZH8ByD\n9Y7ps4wH+Yb7kmdGUEqiaPaHX5k24gqTM4pHLD0aMQKBgQDv/7TgBQ5smOf6NrUo\ne3SVnjLucoT+bDVDarCOVEbP9ukXdIyHBuUOrSewEQfhcyc75F59aHWlprSHew3B\nsIA8sv9HcnKZ7Pz9g+iKUmnzZSq4UHwOvH43ghP7/o/xDEMI5+htW5kwe4+IT/1o\n0VKJg8GrA8ij2JsJOKyOqhm/CQKBgQDYiddcca0g+1y5eX7ddB0B/gnY9WTog+xF\nV7u4ypD8akktU4s7gC6tsTVGa1uG+1i1kZGVGzwmt4A2YMeJdy+s+4G4SSw9+5H0\nU+h2txpl0P2NEjEvCQqs1W8aOPg2IEDveNCe0BeiLxd8s8wasT14eOxcfc8XXifa\njpHF0WQHRQKBgQCTZZ52v2Q+eiJu386fEENn6IMrQxY/E8Iap5nLsCLVcrVxfFka\nTLe9LcdkMPGAGzMLa5REvTUUCbByTLcEMBxyKxTxkm6j7pLqOGtHGJqNq6JzFKs8\nebOi77bKW2uYBYneHF/5WfpZdmmOtGHUUEq6vjrhhy9gwZVmMnJ4JCwv0QKBgQDB\nQuVPwLWAhlfPwjwUcpmhOZaYaQxS6ctqaE9HMqQMZOBC8BmIVXNT2qFt5EugQZx/\nERkaN2CMPaLU5bOxYQrQHPk9/TDbcThnFKyZp/qLfOePjPkQvcUlVKkAgnAl/st1\n8CJiW998BQO1bNNxz1bJu0NZmX/Hn2V6j1xTbfsU8QKBgQDXFqF8B5VqQ6zVjmvu\n+syZmUtU9eSIZu7jfa5Xx+t2XlL6Vz6T5lmDdGQlXpdSWpzejuaa4t6e8deOd2Xg\nQtQrCzfWxnpsOoB40kFrUQKwwJghIZx9PupA7FWQLsrzIBE/yYLtSVIDG2Lsyc5t\nFX163qbONYgnYwNSy8O5K3ykLA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudrun@bubbly-team-339805.iam.gserviceaccount.com",
+  "client_id": "106909010592152312514",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudrun%40bubbly-team-339805.iam.gserviceaccount.com"
+}
